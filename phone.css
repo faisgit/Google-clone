@@ -1,0 +1,19 @@
+header{
+    justify-content: space-between;
+}
+
+ header .navbar ul{
+     margin: 3px -53px;
+ }
+
+.glogo{
+    margin: 53px;
+}
+.container{
+    width: 270px;
+}
+
+
+#search{
+    width: 180px;
+}
